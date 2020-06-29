@@ -5,7 +5,7 @@ Reference : DLithe
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
-Done by: <NAME : Khushi H. Shetty> <USN : 4NM18CS077>
+Done by: NAME : Khushi H. Shetty ; USN : 4NM18CS077
 Credit Card Fraud Detection using Machine learning models
 
 The main objective of the Credit card fraud prediction is to predict fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
