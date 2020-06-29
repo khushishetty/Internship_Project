@@ -16,11 +16,11 @@ The main objective of the Credit card fraud prediction is to predict fraudulent 
 
 The steps involved in the project are:
 
-1. exploring the dataset also visualizing as well as cleaning the data set .
+1. reading the given dataset ie exploring the dataset, visualizing as well as cleaning the data set .
 
 2. Data preprocessing (removing the NAN or NULL values).
 
-3. building machine learning models
+3. building machine learning models (using logistic regression in this case).
 
 4. evaluating the models
 
